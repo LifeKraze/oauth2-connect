@@ -1,6 +1,6 @@
 { "name" :       "oauth2-express"
 , "description": "Node.js Oauth2 Server Library"
-, "version":     "0.1.0"
+, "version":     "0.1.1"
 , "homepage":    "https://github.com/balgarath/oauth2-express/"
 , "contributors":[
     "Ralph Edge <rledge21@gmail.com>"
